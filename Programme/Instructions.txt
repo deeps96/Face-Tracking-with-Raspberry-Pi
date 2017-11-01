@@ -1,0 +1,6 @@
+1. OpenCV auf System installieren
+2. Pfad in Jar anpassen (mittels Eclipse)
+3. OpenCV (F:\Programme\OpenCV\OpenCV249\opencv\build\java\x64) in Windows Umgebungsvariable PATH mit Semikolon getrennt einfügen
+   (System-Erweiterte Systemeinstellungen)
+4. Batch Files anpassen
+5. Exe anpassen (Batch To exe converter auf den Datenschrottplatz)
